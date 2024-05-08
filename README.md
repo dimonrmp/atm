@@ -3,9 +3,9 @@
 
 ### What the project does?
 The exercise of building ATM machine app teaches how to  
-    - 1. Implement user-friendly UI and React components
-    - 2. Manage state of various UI elements
-    - 3. Validate form content in conjunction with state of other components
+* 1. Implement user-friendly UI and React components
+- 2. Manage state of various UI elements
+3. Validate form content in conjunction with state of other components
 
 To improve the app I 
     - 1. Added validation so users can’t withdraw more money than the account balance
